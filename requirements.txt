@@ -1,0 +1,14 @@
+numpy
+scipy
+scikit-learn
+bottle
+requests
+requests-cache
+requests_mock
+unidecode
+pytest
+pytest_mock
+click
+pynif
+sseclient
+python-dateutil
